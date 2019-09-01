@@ -19,3 +19,6 @@
 ## Project Description:
   Project completed using linear shortest distance between two points. Points are hard coded inside the "index.html" which can be twaek manually. A deprecated google API version make it little difficult to be more interactive.
 
+![](image_1.png)
+
+![](image_2.png)
