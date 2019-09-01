@@ -24,7 +24,7 @@
 ![](image_2.png)
 
 
-## Caveats:
+## Improvements:
  * The sample points are hard coded, could become more intercative with better google Map API's.
  
  * Also, the algorithm is to improve optimally.
