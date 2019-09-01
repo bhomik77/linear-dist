@@ -16,4 +16,6 @@
  
 * add your version of gdal in line 26 in C:\Python37\Lib\site-packages\django\contrib\gis\gdal/libgdal.py
 
-# run Locally
+## Project Description:
+  Project completed using linear shortest distance between two points. Points are hard coded inside the "index.html" which can be twaek manually. A deprecated google API version make it little difficult to be more interactive.
+
